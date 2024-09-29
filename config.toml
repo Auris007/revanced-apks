@@ -13,7 +13,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube]
-app-name = "YouTube Music"
+app-name = "YouTube"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
